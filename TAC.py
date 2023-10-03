@@ -24,3 +24,4 @@ def TAC(infija):
                 
     return tac
 
+#GT
